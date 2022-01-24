@@ -1,1 +1,3 @@
 # TheShadow
+cd shadow
+Vvvv
